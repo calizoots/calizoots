@@ -1,5 +1,3 @@
-
-
 <!--
 **calizoots/calizoots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<dl>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDI5dAPEiQM?si=JJnqmMkmD27ngBtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</dl>
+**Humble but I don't take bad up I just bagged up a nine bouta whip somet with my favourite rapper**
+**Got hammers and the gang united still got gunners in my team like Xhaka**
+**Just know the machines got bine and the hunting knifes got claws like Santa**
+**Uptown for some cheese and pasta**
+
+shout me via email
+or holla on snap: cr4ckfiend
+
