@@ -1,25 +1,8 @@
-<!--
-**calizoots/calizoots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-**Humble but I don't take bad up I just bagged up a nine bouta whip somet with my favourite rapper**
+https://github.com/calizoots/calizoots/assets/77692949/c11e83f2-9b9e-4351-9af9-cae63954107c
 
-**Got hammers and the gang united still got gunners in my team like Xhaka**
-
-**Just know the machines got bine and the hunting knifes got claws like Santa**
-
-**Uptown for some cheese and pasta**
 
 shout me via email
 or holla on snap: cr4ckfiend
