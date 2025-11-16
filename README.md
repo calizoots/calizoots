@@ -7,6 +7,7 @@ I have plenty of experience with React and Databases (mainly SQLite and Postgres
 I am 16, I program almost daily
 
 I have many star projects: 
+- [LuhTwin](https://github.com/calizoots/luhtwin)
 - [Swine](https://github.com/calizoots/swine)
 - [HoldTight](https://github.com/calizoots/holdtight)
 - [Bandosquatter](https://github.com/calizoots/bandosquatter) (this is currently being rewritten)
