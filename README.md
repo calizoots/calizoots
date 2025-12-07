@@ -1,19 +1,62 @@
-This is here for mainly employers (I dont like to brag about my work)
+<h1 align="center" style="color:#ff74c7; font-weight:800; font-size:3rem;">
+  hey, i'm <span style="color:#ff8bd4;">sohjun</span> 👋
+</h1>
 
-I can code in C++, Rust, Go, Typescript (can do frontend work with html) and Python
+<p align="center" style="color:#e5e5e5; font-size:1.1rem;">
+  an atypical developer >.<
+  <br/> tools • apps • solutions
+  <br/> you name it i build it
+</p>
 
-I have plenty of experience with React and Databases (mainly SQLite and Postgres) -never worked with any other db-
+<hr style="border:1px solid #ff74c7; margin:30px 0;" />
 
-I am 16, I program almost daily
+### <span style="color:#ff74c7;">abt me...</span>
 
-I have many star projects: 
-- [LuhTwin](https://github.com/calizoots/luhtwin)
-- [Swine](https://github.com/calizoots/swine)
-- [HoldTight](https://github.com/calizoots/holdtight)
-- [Bandosquatter](https://github.com/calizoots/bandosquatter) (this is currently being rewritten)
+- i’ve been programming since i was 9  
+- i code almost every single day  
+- i focus heavily on systems programming + tool development  
+- i build **my own ecosystem** because i love building my own tooling  
+- i can learn new languages / frameworks fast
 
-shout me via email
-preferably this one init
-calizoots@gmail.com
+**languages i use:**
+- rust 🦀  
+- c & c++  
+- go  
+- typescript (react / svelte / htmx / plain html)  
+- python  
+- swift, a bit of objc  
+- lua
 
-or on snap: cr4ckfiend
+---
+
+### <span style="color:#ff74c7;">featured projects</span>
+
+#### **luh ecosystem (main projects)**
+these are crates i built primarily for myself — but other people can use them too.
+
+- **[LuhTwin](https://github.com/calizoots/luhtwin)** — ergonomic error handling  
+- **[LuhLog](https://github.com/calizoots/luhlog)** — colorful structured logging  
+- **[LuhProc](https://github.com/calizoots/luhproc)** — process utilities  
+- **[LuhCLI](https://github.com/calizoots/luhcli)** — lightweight CLI framework  
+- **LuhORM (coming soon)** — prisma-style codegen orm for rust
+
+#### other notable projects
+- **[Swine](https://github.com/calizoots/swine)**  
+- **[HoldTight](https://github.com/calizoots/holdtight)**  
+- **[Moth](https://github.com/calizoots/bandosquatter)** — rust music player (rewriting)
+
+---
+
+### <span style="color:#ff74c7;">📫 contact</span>
+
+**email:**  
+`calizoots@gmail.com` *(preferred)*
+
+**snapchat:**  
+`cr4ckfiend`
+
+<br>
+
+<p align="center">
+  <sub style="color:#555">made with love • ©️ 2025 sohjun</sub>
+</p>
