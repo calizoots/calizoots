@@ -12,7 +12,7 @@
 
 ### <span style="color:#ff74c7;">abt me...</span>
 
-- i’ve been programming since i was 9  
+- i’ve been programming since i was 10-11
 - i code almost every single day  
 - i focus heavily on systems programming + tool development  
 - i build **my own ecosystem** because i love building my own tooling  
