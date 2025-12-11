@@ -15,8 +15,7 @@
 - i’ve been programming since i was 10-11
 - i code almost every single day  
 - i focus heavily on systems programming + tool development  
-- i build **my own ecosystem** because i love building my own tooling  
-- i can learn new languages / frameworks fast
+- i love building my own tooling  
 
 **languages i use:**
 - rust 🦀  
