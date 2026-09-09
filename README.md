@@ -1,9 +1,9 @@
 <h1 align="center" style="color:#ff74c7; font-weight:800; font-size:3rem;">
-  hey, i'm <span style="color:#ff8bd4;">s</span> 👋
+  hey, i'm <span style="color:#ff8bd4;">s</span>
 </h1>
 
 <p align="center" style="color:#e5e5e5; font-size:1.1rem;">
-  an atypical developer >.<
+  a normal ahh guy
 </p>
 
 <hr style="border:1px solid #ff74c7; margin:30px 0;" />
