@@ -24,7 +24,7 @@ these are crates i built primarily for myself — but other people can use them 
 - **[LuhLog](https://github.com/calizoots/luhlog)** — colorful structured logging  
 - **[LuhProc](https://github.com/calizoots/luhproc)** — process utilities  
 - **[LuhCLI](https://github.com/calizoots/luhcli)** — lightweight CLI framework  
-- **LuhORM (coming soon)** — prisma-style codegen orm for rust
+- **[LuhORM](https://github.com/calizoots/luhorm)** — a compile time codegen based orm for rust
 
 #### other projects
 - **[Swine](https://github.com/calizoots/swine)**  
@@ -33,7 +33,7 @@ these are crates i built primarily for myself — but other people can use them 
 
 ---
 
-### <span style="color:#ff74c7;">📫 contact</span>
+### <span style="color:#ff74c7;">contact</span>
 
 **email:**  
 `calizoots@gmail.com` *(preferred)*
@@ -44,5 +44,5 @@ these are crates i built primarily for myself — but other people can use them 
 <br>
 
 <p align="center">
-  <sub style="color:#555">made with love • ©️ 2025 sohjun</sub>
+  <sub style="color:#555">as always made with love • ©️ 2026 s.c</sub>
 </p>
